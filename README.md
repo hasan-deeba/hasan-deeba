@@ -10,7 +10,7 @@ Experienced with Laravel, MySQL, Redis, Filament, Vue.js, and integrations (ship
 
 * 🌍  I'm based in Syria
 * ✉️  You can contact me at [hasan.deeba.94@gmail.com](mailto:hasan.deeba.94@gmail.com)
-> 🚀 **Currently Building:** **Easy To Use Dashboard** ([Laravel](https://github.com/hasan-deeba/laravel-dashboard-api) + [React])(https://github.com/hasan-deeba/react-dashboard-ui)
+* 🚀 I'm currently working on **`Easy To Use Dashboard`** with [Laravel](https://github.com/hasan-deeba/laravel-dashboard-api) & [React](https://github.com/hasan-deeba/react-dashboard-ui)
 * 🧠  I'm currently learning React
 * 👥  I'm looking to collaborate on Laravel Repos, also React to increase my proficiency
 
